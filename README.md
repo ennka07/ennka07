@@ -57,111 +57,111 @@
 
 ## 🎮 Проекты на чистом Python
 
-### [Изгиб питона (the_snake)](https://github.com/your-username/the_snake)
+### [Изгиб питона (the_snake)](https://github.com/ennka07/the_snake)
 **Игра "Змейка" с использованием ООП и коллекций**
 
 Классическая игра "Змейка", реализованная с применением объектно-ориентированного программирования и встроенных коллекций Python.
 
 **Технологии:** Python, ООП, коллекции  
-**Код:** [the_snake](https://github.com/your-username/the_snake)
+**Код:** [the_snake](https://github.com/ennka07/the_snake)
 
 ---
 
 ## 🌐 Django проекты
 
-### [Блогикум (django-sprint1)](https://github.com/your-username/django-sprint1)
+### [Блогикум (django-sprint1)](https://github.com/ennka07/django-sprint1)
 **Простая социальная сеть для публикации личных дневников**
 
 Мой первый Django проект: создание базовой социальной сети с возможностью публикации постов.
 
 **Технологии:** Django, маршрутизаторы, view-функции  
-**Код:** [django-sprint1](https://github.com/your-username/django-sprint1)
+**Код:** [django-sprint1](https://github.com/ennka07/django-sprint1)
 
-### [Блогикум 2.0 (django-sprint3)](https://github.com/your-username/django-sprint3)
+### [Блогикум 2.0 (django-sprint3)](https://github.com/ennka07/django-sprint3)
 **Улучшенная версия социальной сети для публикации дневников**
 
 Развитие проекта с добавлением Django ORM, админ-зоны и работы со связанными моделями.
 
 **Технологии:** Django ORM, админ-панель Django, связанные модели  
-**Код:** [django-sprint3](https://github.com/your-username/django-sprint3)
+**Код:** [django-sprint3](https://github.com/ennka07/django-sprint3)
 
-### [Блогикум 3.0 (django-sprint4)](https://github.com/your-username/django-sprint4)
+### [Блогикум 3.0 (django-sprint4)](https://github.com/ennka07/django-sprint4)
 **Полнофункциональная социальная сеть**
 
 Продвинутая версия с пользовательской системой, формами, пагинацией и расширенной функциональностью.
 
 **Технологии:** Django Forms, CBV, пагинация, DetailView, TemplateView, аутентификация, отправка email, разграничение прав доступа  
-**Код:** [django-sprint4](https://github.com/your-username/django-sprint4)
+**Код:** [django-sprint4](https://github.com/ennka07/django-sprint4)
 
 ---
 
 ## 🧪 Тестирование
 
-### [Vice Versa (django-testing)](https://github.com/your-username/django-testing)
+### [Vice Versa (django-testing)](https://github.com/ennka07/django-testing)
 **Написание тестов для Django-проектов**
 
 Написание модульных тестов для проекта YaNote (заметки) и тестов с использованием pytest для YaNews (лента новостей).
 
 **Технологии:** unittest, pytest, Django Testing Framework  
-**Код:** [django-testing](https://github.com/your-username/django-testing)
+**Код:** [django-testing](https://github.com/ennka07/django-testing)
 
 ---
 
 ## 🔌 API проекты
 
-### [Бот-ассистент в телеграм (homework-bot)](https://github.com/your-username/homework-bot)
+### [Бот-ассистент в телеграм (homework-bot)](https://github.com/ennka07/homework-bot)
 **Бот для опрашивания сервиса и отправки домашнего задания куратору**
 
 Телеграм-бот для проверки статуса домашней работы и уведомления о её статусе.
 
 **Технологии:** API, телеграм-бот, logging  
-**Код:** [homework-bot](https://github.com/your-username/homework-bot)
+**Код:** [homework-bot](https://github.com/ennka07/homework-bot)
 
-### [CRUD для Yatube (api-yatube)](https://github.com/your-username/api-yatube)
+### [CRUD для Yatube (api-yatube)](https://github.com/ennka07/api-yatube)
 **Платформа для текстовых блогов с возможностью загрузки изображений**
 
 API для платформы блогов с использованием Django Rest Framework.
 
 **Технологии:** Django Rest Framework, API view-функции, API view-классы, сериализаторы, регулярные выражения, аутентификация по токену, JWT, Djoser  
-**Код:** [api-yatube](https://github.com/your-username/api-yatube)
+**Код:** [api-yatube](https://github.com/ennka07/api-yatube)
 
-### [API для Yatube (api_final_yatube)](https://github.com/your-username/api_final_yatube)
+### [API для Yatube (api_final_yatube)](https://github.com/ennka07/api_final_yatube)
 **Усовершенствованная версия API для блог-платформы**
 
 Расширенный API с дополнительными функциями и улучшениями.
 
 **Технологии:** проверка прав, throttling, пагинация в API, MPA, SPA, CORS, Swagger, фильтрация ответов в DRF  
-**Код:** [api_final_yatube](https://github.com/your-username/api_final_yatube)
+**Код:** [api_final_yatube](https://github.com/ennka07/api_final_yatube)
 
-### [YaMDb (api_yamdb)](https://github.com/your-username/api_yamdb)
+### [YaMDb (api_yamdb)](https://github.com/ennka07/api_yamdb)
 **Отзывы пользователей на произведения**
 
 Платформа для добавления отзывов на фильмы, книги и музыку с возможностью загрузки изображений.
 
 **Технологии:** групповой проект, таск-трекер канбан-доска, групповая работа над одним проектом в Git/GitHub, кросс-ревью  
-**Код:** [api_yamdb](https://github.com/your-username/api_yamdb)
+**Код:** [api_yamdb](https://github.com/ennka07/api_yamdb)
 
 ---
 
 ## 🚀 DevOps и Docker
 
-### [Kittygram — инфраструктура (infra-sprint1)](https://github.com/your-username/infra-sprint1)
+### [Kittygram — инфраструктура (infra-sprint1)](https://github.com/ennka07/infra-sprint1)
 **Социальная сеть для обмена фотографиями питомцев**
 
 Полностью рабочий проект: бэкенд на Django и фронтенд на React с развертыванием на удалённом сервере.
 
 **Технологии:** DevOps, Server Gateway Interface, Nginx, SSH, HTTPS, мониторинг доступности и сбор ошибок  
-**Код:** [infra-sprint1](https://github.com/your-username/infra-sprint1)
+**Код:** [infra-sprint1](https://github.com/ennka07/infra-sprint1)
 
-### [Kittygram 2.0 (kittygram_final)](https://github.com/your-username/kittygram_final)
+### [Kittygram 2.0 (kittygram_final)](https://github.com/ennka07/kittygram_final)
 **Контейнеризированная версия социальной сети для питомцев**
 
 Усовершенствованная версия с использованием Docker и CI/CD.
 
 **Технологии:** Docker (образы, контейнеры, volume, network, compose), gunicorn, Docker Hub, CI/CD, workflow  
-**Код:** [kittygram_final](https://github.com/your-username/kittygram_final)
+**Код:** [kittygram_final](https://github.com/ennka07/kittygram_final)
 
-### [Фудграм (foodgram)](https://github.com/your-username/foodgram)
+### [Фудграм (foodgram)](https://github.com/ennka07/foodgram)
 **Сайт для публикации рецептов с избранным и списком покупок**
 
 Полноценный проект с API, SPA и контейнеризацией.
@@ -172,19 +172,19 @@ API для платформы блогов с использованием Djang
 - Подключено SPA к бэкенду через API
 - Созданы образы и запущены контейнеры Docker
 - Развёрнуто мультиконтейнерное приложение на сервере  
-**Код:** [foodgram](https://github.com/your-username/foodgram)
+**Код:** [foodgram](https://github.com/ennka07/foodgram)
 
 ---
 
 ## ⚡ Асинхронность и Flask
 
-### [YaCut (async-yacut)](https://github.com/your-username/async-yacut)
+### [YaCut (async-yacut)](https://github.com/ennka07/async-yacut)
 **Сервис укорачивания ссылок с загрузкой файлов на Яндекс Диск**
 
 Сервис для ассоциации длинных ссылок с короткими и загрузки файлов.
 
 **Технологии:** потоки и процессы, асинхронный Python (asyncio), Flask, SQLAlchemy, шаблонизатор, формы, миграции, API на Flask  
-**Код:** [async-yacut](https://github.com/your-username/async-yacut)
+**Код:** [async-yacut](https://github.com/ennka07/async-yacut)
 
 ---
 
@@ -231,7 +231,7 @@ API для платформы блогов с использованием Djang
 
 ## 🔗 Быстрые ссылки
 
-- [📂 Все мои репозитории](https://github.com/your-username?tab=repositories)
-- [👤 Профиль GitHub](https://github.com/your-username)
+- [📂 Все мои репозитории](https://github.com/ennka07?tab=repositories)
+- [👤 Профиль GitHub](https://github.com/ennka07)
 
 ---
