@@ -151,7 +151,7 @@ API для платформы блогов с использованием Djang
 Полностью рабочий проект: бэкенд на Django и фронтенд на React с развертыванием на удалённом сервере.
 
 **Технологии:** DevOps, Server Gateway Interface, Nginx, SSH, HTTPS, мониторинг доступности и сбор ошибок  
-**Код:** [infra-sprint1](https://github.com/ennka07/infra-sprint1)
+**Код:** [infra_sprint1](https://github.com/ennka07/infra_sprint1)
 
 ### [Kittygram 2.0 (kittygram_final)](https://github.com/ennka07/kittygram_final)
 **Контейнеризированная версия социальной сети для питомцев**
