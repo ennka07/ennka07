@@ -131,7 +131,7 @@ API для платформы блогов с использованием Djang
 Расширенный API с дополнительными функциями и улучшениями.
 
 **Технологии:** проверка прав, throttling, пагинация в API, MPA, SPA, CORS, Swagger, фильтрация ответов в DRF  
-**Код:** [api_final_yatube](https://github.com/ennka07/api_final_yatube)
+**Код:** [api_final_yatube](https://github.com/ennka07/api-final-yatube)
 
 ### [YaMDb (api_yamdb)](https://github.com/ennka07/api_yamdb)
 **Отзывы пользователей на произведения**
