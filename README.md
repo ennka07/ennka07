@@ -1,237 +1,50 @@
-# Привет! 👋 
+# 👩‍💻 Савицкая Анна | Системный аналитик (ERP, API, Интеграции)
 
-**Python-разработчик | Backend | Django | DRF | Docker**
+Бизнес/системный аналитик с 10-летним опытом в enterprise-разработке (SAP ERP) и современным бэкграундом в Python-экосистеме.  
+Специализируюсь на формализации требований, проектировании интеграций (REST/SOAP), моделировании данных и подготовке спецификаций. Умею говорить на одном языке с бизнесом и разработкой.
 
-## 🔄 Опытный разработчик в переходе на Python
-Привет! Меня зовут Аня. У меня **10 лет коммерческого опыта** разработки в экосистеме SAP (ERP, ABAP, SAP PI). Сейчас я активно перехожу в современную веб-разработку на Python, применяя свой enterprise-опыт разработки.
-
-### 🏢 Мой бэкграунд
-- **10 лет разработки** в корпоративной среде SAP
-- **Глубокое понимание** бизнес-процессов и enterprise-систем
-- **Опыт работы** с высоконагруженными системами и критически важными приложениями
-- **Знание** полного цикла разработки от анализа требований до поддержки
-
-### 🎯 Почему Python?
-- Стремлюсь к более современному и гибкому стеку технологий
-- Интерес к веб-разработке и cloud-технологиям
-
-### 💡 Что я привношу из опыта разработки
-- **Архитектурное мышление** - опыт работы со сложными enterprise-системами
-- **Понимание бизнес-логики** - 10 лет разработки для бизнес-процессов
-- **Качество кода** - строгие стандарты разработки в корпоративной среде
-- **Работа с данными** - глубокий опыт интеграций и обработки данных
-- **Надёжность** - привычка к production-качеству кода
-
-## 🔧 Технологический стек
-**Backend:** Python, Django, Django REST Framework, Flask, PostgreSQL  
-**Инфраструктура:** Docker, Nginx, Gunicorn, CI/CD  
-**Инструменты:** Git, GitHub, Postman, pytest, unittest  
-**API:** REST, JWT, Swagger, CORS
-
-## 🎓 Образование
-- Курс "Python-разработчик буткемп" в Яндекс Практикуме (2025)
-
-## 💼 Опыт
-- Участие в командном проекте YaMDb (кросс-ревью)
-- Развертывание проектов на удаленных серверах
-- Настройка CI/CD пайплайнов
-
-## 📬 Контакты
-
-[![Email](https://img.shields.io/badge/Email-annasavrus@gmail.com-blue)](mailto:annasavrus@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-@ennka07-blue)](https://t.me/ennka07)
-[![GitHub](https://img.shields.io/badge/GitHub-ennka07-black)](https://github.com/ennka07)
+📧 annasavrus@gmail.com | 💬 [@ennka07](https://t.me/ennka07) | 🔗 [GitHub](https://github.com/ennka07)
 
 ---
 
-# Мои проекты на Python
+## 🗂 Аналитические кейсы
+Здесь собраны проекты, оформленные как **аналитические кейсы**. В каждом репозитории в папке `/docs` лежат артефакты проектирования, которые обычно создаются на этапе анализа и подготовки к разработке.
 
-Здесь собраны мои учебные и практические проекты на Python, охватывающие различные аспекты разработки: от базового ООП до бэкенд-разработки, API, асинхронности и DevOps.
-
-![Python](https://img.shields.io/badge/Python-3.9+-blue)
-![Django](https://img.shields.io/badge/Django-4.0+-green)
-![DRF](https://img.shields.io/badge/Django_REST_Framework-3.14+-red)
-![Docker](https://img.shields.io/badge/Docker-24.0+-blue)
-
----
-
-## 🎮 Проекты на чистом Python
-
-### [Изгиб питона (the_snake)](https://github.com/ennka07/the_snake)
-**Игра "Змейка" с использованием ООП и коллекций**
-
-Классическая игра "Змейка", реализованная с применением объектно-ориентированного программирования и встроенных коллекций Python.
-
-**Технологии:** Python, ООП, коллекции  
-**Код:** [the_snake](https://github.com/ennka07/the_snake)
+| Проект | Фокус аналитики | Артефакты |
+|--------|----------------|-----------|
+| 🍽️ [Фудграм (Рецепты)](https://github.com/ennka07/foodgram) | Проектирование API, маппинг сущностей, спецификация контрактов | `ТЗ`, `ERD`, `OpenAPI`, `UAT-чеклист` |
+| ✂️ [YaCut (Сокращение ссылок + Яндекс.Диск)](https://github.com/ennka07/async-yacut) | Интеграционная логика, user flows, обработка ошибок | `Use Cases`, `Sequence Diagram`, `Error Matrix` |
+| 📚 [YaMDb (Отзывы, командный проект)](https://github.com/ennka07/api-yamdb) | Сбор требований, декомпозиция задач, критерии приёмки | `Backlog`, `Acceptance Criteria`, `Task Breakdown` |
+| 🐾 [Kittygram (Инфраструктура)](https://github.com/ennka07/infra_sprint1) | Процесс доставки, окружения, CI/CD как часть анализа | `Env Specs`, `Deployment Flow`, `Checklists` |
 
 ---
 
-## 🌐 Django проекты
-
-### [Блогикум (django-sprint1)](https://github.com/ennka07/django-sprint1)
-**Простая социальная сеть для публикации личных дневников**
-
-Мой первый Django проект: создание базовой социальной сети с возможностью публикации постов.
-
-**Технологии:** Django, маршрутизаторы, view-функции  
-**Код:** [django-sprint1](https://github.com/ennka07/django-sprint1)
-
-### [Блогикум 2.0 (django-sprint3)](https://github.com/ennka07/django-sprint3)
-**Улучшенная версия социальной сети для публикации дневников**
-
-Развитие проекта с добавлением Django ORM, админ-зоны и работы со связанными моделями.
-
-**Технологии:** Django ORM, админ-панель Django, связанные модели  
-**Код:** [django-sprint3](https://github.com/ennka07/django-sprint3)
-
-### [Блогикум 3.0 (django-sprint4)](https://github.com/ennka07/django-sprint4)
-**Полнофункциональная социальная сеть**
-
-Продвинутая версия с пользовательской системой, формами, пагинацией и расширенной функциональностью.
-
-**Технологии:** Django Forms, CBV, пагинация, DetailView, TemplateView, аутентификация, отправка email, разграничение прав доступа  
-**Код:** [django-sprint4](https://github.com/ennka07/django-sprint4)
+## 🔍 Что внутри папки `/docs` каждого проекта?
+Вместо акцента на `settings.py` или `views.py`, в портфолио представлены аналитические материалы:
+- 📄 **Требования и User Stories** → декомпозиция бизнес-задачи, критерии готовности (DoD/DoR)
+- 🗺️ **Модели данных (ERD)** → сущности, связи, типы данных, правила валидации
+- 🔌 **Спецификации API** → эндпоинты, методы, форматы запросов/ответов, коды ошибок (OpenAPI/Postman)
+- 🔄 **Схемы процессов** → BPMN/UML, sequence-диаграммы интеграций, user flows
+- ✅ **Чек-листы приёмки (UAT)** → сценарии тестирования, граничные случаи, условия успешного внедрения
 
 ---
 
-## 🧪 Тестирование
-
-### [Vice Versa (django-testing)](https://github.com/ennka07/django-testing)
-**Написание тестов для Django-проектов**
-
-Написание модульных тестов для проекта YaNote (заметки) и тестов с использованием pytest для YaNews (лента новостей).
-
-**Технологии:** unittest, pytest, Django Testing Framework  
-**Код:** [django-testing](https://github.com/ennka07/django-testing)
-
----
-
-## 🔌 API проекты
-
-### [Бот-ассистент в телеграм (homework-bot)](https://github.com/ennka07/homework-bot)
-**Бот для опрашивания сервиса и отправки домашнего задания куратору**
-
-Телеграм-бот для проверки статуса домашней работы и уведомления о её статусе.
-
-**Технологии:** API, телеграм-бот, logging  
-**Код:** [homework-bot](https://github.com/ennka07/homework-bot)
-
-### [CRUD для Yatube (api-yatube)](https://github.com/ennka07/api-yatube)
-**Платформа для текстовых блогов с возможностью загрузки изображений**
-
-API для платформы блогов с использованием Django Rest Framework.
-
-**Технологии:** Django Rest Framework, API view-функции, API view-классы, сериализаторы, регулярные выражения, аутентификация по токену, JWT, Djoser  
-**Код:** [api-yatube](https://github.com/ennka07/api-yatube)
-
-### [API для Yatube (api-final-yatube)](https://github.com/ennka07/api-final-yatube)
-**Усовершенствованная версия API для блог-платформы**
-
-Расширенный API с дополнительными функциями и улучшениями.
-
-**Технологии:** проверка прав, throttling, пагинация в API, MPA, SPA, CORS, Swagger, фильтрация ответов в DRF  
-**Код:** [api-final-yatube](https://github.com/ennka07/api-final-yatube)
-
-### [YaMDb (api-yamdb)](https://github.com/ennka07/api-yamdb)
-**Отзывы пользователей на произведения**
-
-Платформа для добавления отзывов на фильмы, книги и музыку с возможностью загрузки изображений.
-
-**Технологии:** групповой проект, таск-трекер канбан-доска, групповая работа над одним проектом в Git/GitHub, кросс-ревью  
-**Код:** [api-yamdb](https://github.com/ennka07/api-yamdb)
+## 🛠 Аналитический стек
+| Направление | Инструменты / Практики |
+|-------------|------------------------|
+| **Требования** | User Stories, Use Cases, Acceptance Criteria, MoSCoW, декомпозиция |
+| **Моделирование** | BPMN, UML (Activity, Sequence, ERD), Draw.io, PlantUML |
+| **Интеграции** | REST, SOAP, OpenAPI/Swagger, Postman, маппинг данных, JSON/XML |
+| **Данные** | SQL (CTE, JOIN, агрегации), PostgreSQL, проектирование схем, ETL-логика |
+| **Документация** | Markdown, Confluence-структуры, GitBook, ведение версии требований |
+| **Управление** | Jira/Notion, Kanban, спринт-планирование, кросс-ревью требований |
 
 ---
 
-## 🚀 DevOps и Docker
-
-### [Kittygram — инфраструктура (infra_sprint1)](https://github.com/ennka07/infra_sprint1)
-**Социальная сеть для обмена фотографиями питомцев**
-
-Полностью рабочий проект: бэкенд на Django и фронтенд на React с развертыванием на удалённом сервере.
-
-**Технологии:** DevOps, Server Gateway Interface, Nginx, SSH, HTTPS, мониторинг доступности и сбор ошибок  
-**Код:** [infra_sprint1](https://github.com/ennka07/infra_sprint1)
-
-### [Kittygram 2.0 (kittygram_final)](https://github.com/ennka07/kittygram_final)
-**Контейнеризированная версия социальной сети для питомцев**
-
-Усовершенствованная версия с использованием Docker и CI/CD.
-
-**Технологии:** Docker (образы, контейнеры, volume, network, compose), gunicorn, Docker Hub, CI/CD, workflow  
-**Код:** [kittygram_final](https://github.com/ennka07/kittygram_final)
-
-### [Фудграм (foodgram)](https://github.com/ennka07/foodgram)
-**Сайт для публикации рецептов с избранным и списком покупок**
-
-Полноценный проект с API, SPA и контейнеризацией.
-
-**Технологии:** Python, JSON, YAML, Django, React, API, Docker, Nginx, PostgreSQL, Gunicorn, JWT, Postman, CI/CD  
-**Что реализовано:**
-- Создан собственный API-сервис на Django
-- Подключено SPA к бэкенду через API
-- Созданы образы и запущены контейнеры Docker
-- Развёрнуто мультиконтейнерное приложение на сервере  
-**Код:** [foodgram](https://github.com/ennka07/foodgram)
+## 🎓 Образование и фокус
+- **Магистр:** Информационные системы и технологии (ДГТУ, 2016)
+- **Переподготовка:** Python-разработчик, Яндекс Практикум (2025)
+- **Ключевой фокус:** Переход от написания кода к проектированию решений. Глубокое понимание enterprise-логики (10 лет SAP) + современный стек API/Python для быстрого прототипирования и валидации гипотез.
 
 ---
-
-## ⚡ Асинхронность и Flask
-
-### [YaCut (async-yacut)](https://github.com/ennka07/async-yacut)
-**Сервис укорачивания ссылок с загрузкой файлов на Яндекс Диск**
-
-Сервис для ассоциации длинных ссылок с короткими и загрузки файлов.
-
-**Технологии:** потоки и процессы, асинхронный Python (asyncio), Flask, SQLAlchemy, шаблонизатор, формы, миграции, API на Flask  
-**Код:** [async-yacut](https://github.com/ennka07/async-yacut)
-
----
-
-## 📊 Обзор проектов
-
-| Категория | Проекты | Ключевые технологии |
-|-----------|---------|-------------------|
-| **Python ООП** | Изгиб питона | Python, ООП, коллекции |
-| **Django** | Блогикум 1-3 | Django, ORM, Forms, CBV, аутентификация |
-| **Тестирование** | Vice Versa | unittest, pytest, Django Testing |
-| **API** | Бот-ассистент, Yatube, YaMDb | DRF, JWT, Djoser, Swagger, CORS |
-| **DevOps/Docker** | Kittygram, Фудграм | Docker, Nginx, CI/CD, PostgreSQL |
-| **Асинхронность** | YaCut | Flask, asyncio, SQLAlchemy, API |
-
----
-
-## 📈 Прогресс обучения
-
-Проекты расположены в порядке их создания и отражают мой прогресс в изучении веб-разработки:
-
-1. **Основы Python** → ООП и коллекции
-2. **Введение в Django** → Монолитные приложения
-3. **Тестирование** → Обеспечение качества кода
-4. **API разработка** → Django REST Framework
-5. **DevOps и Docker** → Развёртывание и контейнеризация
-6. **Асинхронность** → Flask и asyncio
-
----
-
-## 🛠 Полный стек технологий
-
-- **Языки:** Python, JavaScript
-- **Бэкенд-фреймворки:** Django, Django REST Framework, Flask
-- **Фронтенд:** React
-- **Базы данных:** SQLite, PostgreSQL
-- **Контейнеризация:** Docker, Docker Compose
-- **Веб-серверы:** Nginx, Gunicorn
-- **Тестирование:** unittest, pytest
-- **API:** REST, JWT, Djoser, Swagger, CORS
-- **DevOps:** CI/CD, SSH, мониторинг
-- **Дополнительно:** ООП, асинхронное программирование, ORM, пагинация
-
----
-
-## 🔗 Быстрые ссылки
-
-- [📂 Все мои репозитории](https://github.com/ennka07?tab=repositories)
-- [👤 Профиль GitHub](https://github.com/ennka07)
-
----
+> 💡 *Все проекты изначально разрабатывались как учебные, но в этом портфолио они переоформлены как аналитические кейсы, чтобы продемонстрировать навыки сбора требований, проектирования интеграций и подготовки документации для команды разработки.*
